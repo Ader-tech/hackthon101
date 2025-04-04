@@ -7,4 +7,4 @@ It a one pager website with 5 session aside the home which includes About, Resum
 To run it after cloning all you need is a live server.
 
 
-And here is the link to view it
+And here is the link to view it https://ader-tech.github.io/hackthon101/
